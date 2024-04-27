@@ -53,17 +53,27 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C\C++
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Java
         description: ''
-        percent: 40
+        percent: 50
+        icon: database
+        icon_pack: fas
+      - name: SQL Sever
+        description: ''
+        percent: 60
+        icon: database
+        icon_pack: fas
+      - name: MySQL
+        description: ''
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
