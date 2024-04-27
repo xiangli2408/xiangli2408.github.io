@@ -140,5 +140,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Li Xiang is currently a research assistant in the department of computer science and technology, nanjing university. His research interests include artificial intelligence, computer vision and single/multiple object tracking. He has participated in the youth fund project of national natural science foundation and the general project of science and technology plan of beijing municipal education commission. He has published three papers in SCI/EI.
 {style="text-align: justify;"}
